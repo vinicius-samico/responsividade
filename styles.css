@@ -76,7 +76,8 @@ header{
     width: 493px;
 }
 
-@media screen and (max-width: 900px){
+@media screen and (max-width: 800px){
+
 
 .texto-principal{
     font-size: 30px;
