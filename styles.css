@@ -76,7 +76,7 @@ header{
     width: 493px;
 }
 
-@media screen and (max-width: 900px){
+@media screen and (max-width: 850px){
 
 .texto-principal{
     font-size: 30px;
@@ -105,7 +105,7 @@ header{
 
 .foto-desafio{
     position: absolute;
-    bottom: -16px;
+    margin-bottom:-16px;
     right: 35px;
     width: 290.00px;
     height: 298.00px;
